@@ -1,6 +1,6 @@
 {
 	"layouts": {
-		"tracker_default": {
+		"tracker_horizontal": {
 			"type": "container",
 			"background": "#212121",
 			"content": {
@@ -19,10 +19,19 @@
 									{
 										"type": "group",
 										"header": "Key Items",
-										"dock": "top",
+										"dock": "left",
 										"content": {
 											"type": "layout",
 											"key": "item_grid"
+										}
+                  },
+									{
+										"type": "group",
+										"header": "Map Items",
+										"dock": "right",
+										"content": {
+											"type": "layout",
+											"key": "event_grid"
 										}
 									}
                 ]

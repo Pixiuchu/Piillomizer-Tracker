@@ -8,13 +8,13 @@
   {
     "name": "Mini Mario",
     "type": "toggle",
-    "img": "TODO",
+    "img": "images/items/Mole Mario.png",
     "codes": "mini_mario"
   },
   {
     "name": "Mole Mario",
     "type": "toggle",
-    "img": "TODO",
+    "img": "images/items/Mini Mario.png",
     "codes": "mole_mario"
   },
   {
@@ -56,7 +56,7 @@
   {
     "name": "Luiginary Cone",
     "type": "toggle",
-    "img": "TODO",
+    "img": "images/items/LgnryCone.png",
     "codes": "luiginary_cone"
   },
   {
@@ -68,7 +68,7 @@
   {
     "name": "Luiginary Ball",
     "type": "toggle",
-    "img": "TODO",
+    "img": "images/items/LgnryBall.png",
     "codes": "luiginary_ball"
   },
   {
@@ -86,37 +86,43 @@
   {
     "name": "Deep Pi'illo Castle's Bridge",
     "type": "toggle",
-    "img": "TODO",
+    "disabled_img": "images/items/DeepCastleGate OFF.png",
+    "img": "images/items/DeepCastleGate ON.png",
     "codes": "deep_piillo_castle_bridge"
   },
   {
     "name": "Pi'illo Blimport Bridge",
     "type": "toggle",
-    "img": "TODO",
+    "disabled_img": "images/items/Blimport Bridge OFF.png",
+    "img": "images/items/Blimport Bridge ON.png",
     "codes": "piillo_blimport_bridge"
   },
   {
     "name": "Mushrise Park South Gate",
     "type": "toggle",
-    "img": "TODO",
+    "disabled_img": "images/items/Mushrise Park Gate OFF.png",
+    "img": "images/items/Mushrise Park Gate ON.png",
     "codes": "mushrise_park_south_gate"
   },
   {
     "name": "Wakeport Access",
     "type": "toggle",
-    "img": "TODO",
+    "disabled_img": "images/items/Wakeport OFF.png",
+    "img": "images/items/Wakeport ON.png",
     "codes": "wakeport_access"
   },
   {
     "name": "Mt. Pajamaja Access",
     "type": "toggle",
-    "img": "TODO",
+    "disabled_img": "images/items/Pajamaja OFF.png",
+    "img": "images/items/Pajamaja ON.png",
     "codes": "pajamaja_access"
   },
   {
     "name": "Neo Bowser Castle Access",
     "type": "toggle",
-    "img": "TODO",
+    "disabled_img": "images/items/Neo Bowser Castle OFF.png",
+    "img": "images/items/Neo Bowser Castle ON.png",
     "codes": "neo_bowser_castle_access"
   },
   {
@@ -126,7 +132,7 @@
 	"max_quantity": 5,
 	"increment": 1,
 	"decrement": 1,
-    "img": "TODO",
+    "img": "images/items/Dozite.png",
     "codes": "dozite"
   },
   {
@@ -136,7 +142,7 @@
 	"max_quantity": 3,
 	"increment": 1,
 	"decrement": 1,
-    "img": "TODO",
+    "img": "images/items/Dream Egg.png",
     "codes": "dream_egg"
   }
 ]
