@@ -1,0 +1,10 @@
+{
+    "name": "Pi'illomizer Tracker",
+    "game_name": "Mario & Luigi: Dream Team",
+    "package_uid": "mldt_poptracker_pixiuchu",
+    "package_version": "v0.1",
+	"author": "Pixiuchu",
+    "platform": "3DS",
+    "min_poptracker_version": "0.32.1",
+    "target_poptracker_version": "0.32.1"
+}

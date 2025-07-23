@@ -1,0 +1,20 @@
+{
+  "item_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_size": 48,
+        "item_margin": "1,2",
+        "rows": [
+          ["hammers", "spin_jump", "side_drill", "ball_hop"],
+          ["luiginary_works", "luiginary_stack_ground_pound", "luiginary_stack_spring_jump"],
+          ["luiginary_cone_tornado", "luiginary_ball_hookshot", "luiginary_ball_ball_hammer"]
+        ]
+      }
+    ]
+  }
+}

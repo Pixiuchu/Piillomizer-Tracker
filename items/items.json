@@ -1,0 +1,142 @@
+﻿[
+  {
+    "name": "Hammers",
+    "type": "toggle",
+	  "img": "images/items/Hammers.png",
+	  "codes": "hammers"
+  },
+  {
+    "name": "Mini Mario",
+    "type": "toggle",
+    "img": "TODO",
+    "codes": "mini_mario"
+  },
+  {
+    "name": "Mole Mario",
+    "type": "toggle",
+    "img": "TODO",
+    "codes": "mole_mario"
+  },
+  {
+    "name": "Spin Jump",
+    "type": "toggle",
+    "img": "images/items/SpinJump.png",
+    "codes": "spin_jump"
+  },
+  {
+    "name": "Side Drill",
+    "type": "toggle",
+    "img": "images/items/SideDrill.png",
+    "codes": "side_drill"
+  },
+  {
+    "name": "Ball Hop",
+    "type": "toggle",
+    "img": "images/items/BallHop.png",
+    "codes": "ball_hop"
+  },
+  {
+    "name": "Luiginary Works",
+    "type": "toggle",
+    "img": "images/items/EnterLuiginaryWorks.png",
+    "codes": "luiginary_works"
+  },
+  {
+    "name": "Luiginary Stack - Ground Pound",
+    "type": "toggle",
+    "img": "images/items/LgnryStackGroundPound.png",
+    "codes": "luiginary_stack_ground_pound"
+  },
+  {
+    "name": "Luiginary Stack - Spring Jump",
+    "type": "toggle",
+    "img": "images/items/LgnryStackSpringJump.png",
+    "codes": "luiginary_stack_spring_jump"
+  },
+  {
+    "name": "Luiginary Cone",
+    "type": "toggle",
+    "img": "TODO",
+    "codes": "luiginary_cone"
+  },
+  {
+    "name": "Luiginary Cone - Tornado",
+    "type": "toggle",
+    "img": "images/items/LgnryConeTornado.png",
+    "codes": "luiginary_cone_tornado"
+  }, 
+  {
+    "name": "Luiginary Ball",
+    "type": "toggle",
+    "img": "TODO",
+    "codes": "luiginary_ball"
+  },
+  {
+    "name": "Luiginary Ball - Hookshot",
+    "type": "toggle",
+    "img": "images/items/LgnryBallHookshot.png",
+    "codes": "luiginary_ball_hookshot"
+  },
+  {
+    "name": "Luiginary Ball - Ball Hammer",
+    "type": "toggle",
+    "img": "images/items/LgnryBallHammer.png",
+    "codes": "luiginary_ball_ball_hammer"
+  },
+  {
+    "name": "Deep Pi'illo Castle's Bridge",
+    "type": "toggle",
+    "img": "TODO",
+    "codes": "deep_piillo_castle_bridge"
+  },
+  {
+    "name": "Pi'illo Blimport Bridge",
+    "type": "toggle",
+    "img": "TODO",
+    "codes": "piillo_blimport_bridge"
+  },
+  {
+    "name": "Mushrise Park South Gate",
+    "type": "toggle",
+    "img": "TODO",
+    "codes": "mushrise_park_south_gate"
+  },
+  {
+    "name": "Wakeport Access",
+    "type": "toggle",
+    "img": "TODO",
+    "codes": "wakeport_access"
+  },
+  {
+    "name": "Mt. Pajamaja Access",
+    "type": "toggle",
+    "img": "TODO",
+    "codes": "pajamaja_access"
+  },
+  {
+    "name": "Neo Bowser Castle Access",
+    "type": "toggle",
+    "img": "TODO",
+    "codes": "neo_bowser_castle_access"
+  },
+  {
+    "name": "Dozite",
+    "type": "consumable",
+	"min_quantity": 0,
+	"max_quantity": 5,
+	"increment": 1,
+	"decrement": 1,
+    "img": "TODO",
+    "codes": "dozite"
+  },
+  {
+    "name": "Dream Egg",
+    "type": "consumable",
+	"min_quantity": 0,
+	"max_quantity": 3,
+	"increment": 1,
+	"decrement": 1,
+    "img": "TODO",
+    "codes": "dream_egg"
+  }
+]
