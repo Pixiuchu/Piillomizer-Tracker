@@ -1,0 +1,5 @@
+var_itemsonly/variants.md
+var_itemsonly/layouts/tracker.jsonc
+items/items.jsonc
+gen/requirements.txt
+gen/compress_images.py
